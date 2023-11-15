@@ -14,4 +14,4 @@ Then, you can run predictions:
 
 "dark shot, front shot, closeup photo of a 25 y.o latino man, perfect eyes, natural skin, skin moles, looks at viewer, cinematic shot"
 
-![alt text](output.png)
+![alt text](output.0.png)
