@@ -1,5 +1,7 @@
 # SG161222/RealVisXL_V2.0-LCM Cog model
 
+[![Try a demo on Replicate](https://replicate.com/lucataco/realvisxl2-lcm/badge)](https://replicate.com/lucataco/realvisxl2-lcm)
+
 This is an implementation of the [SG161222/RealVisXL_V2.0](https://huggingface.co/SG161222/RealVisXL_V2.0) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
 
 First, download the pre-trained weights:
